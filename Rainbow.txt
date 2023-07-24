@@ -1,4 +1,4 @@
-Rainbow Poem
+Rainbow Poem, meeting an unicorn
 
 Red
 Orange
@@ -8,4 +8,5 @@ Blue
 Indigo
 Violet
 
-This are the colours of the rainbow.
+This are the colours of the rainbow
+with the unicorn
